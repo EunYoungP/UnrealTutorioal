@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Maps/Valley.umap",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/SM_Crate.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/M_Plastic.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/GameElements/BP_Crate.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/LandScape/M_Landscape.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/LandScape/Grass_LayerInfo.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/M_Carbon.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/M_Metal.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/LandScape/Sand_LayerInfo.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Grunge_A.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Metal_N.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Metal_R.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Plastic_N.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Ribbing_A.uasset",
+				"D:/Projects_Unreal/UnrealTutorial/FirstGame/Content/Props/T_Ribbing_N.uasset"
+			]
+		}
+	]
+}
